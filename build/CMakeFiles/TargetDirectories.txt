@@ -1,0 +1,1 @@
+/home/zhenia/Projects/simpleProjectCm/build/CMakeFiles/intro.dir
